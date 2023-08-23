@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/javaLessons.iml" filepath="$PROJECT_DIR$/javaLessons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kz.el-aman.consoleapp/kz.el-aman.consoleapp.iml" filepath="$PROJECT_DIR$/kz.el-aman.consoleapp/kz.el-aman.consoleapp.iml" />
     </modules>
   </component>
 </project>
